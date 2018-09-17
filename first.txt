@@ -3,3 +3,5 @@ aaaeee
 upd
 
 rm
+
+git status
